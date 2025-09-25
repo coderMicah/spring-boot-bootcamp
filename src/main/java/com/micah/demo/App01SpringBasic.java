@@ -1,8 +1,10 @@
-package com.micah.demo.helloworld;
+package com.micah.demo;
 
 import java.util.Arrays;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.micah.demo.helloworld.HelloWorldConfiguration;
 
 public class App01SpringBasic {
     public static void main(String[] args) {
