@@ -1,4 +1,4 @@
-package com.micah.demo;
+package com.micah.demo.helloworld;
 
 import java.util.Arrays;
 
