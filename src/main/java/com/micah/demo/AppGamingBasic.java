@@ -1,9 +1,7 @@
 package com.micah.demo;
 
 import com.micah.demo.game.GameRunner;
-import com.micah.demo.game.MarioGame;
 import com.micah.demo.game.PacmanGame;
-import com.micah.demo.game.SuperContraGame;
 
 public class AppGamingBasic {
 
