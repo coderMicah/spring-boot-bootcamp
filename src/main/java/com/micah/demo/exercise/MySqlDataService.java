@@ -1,9 +1,9 @@
 package com.micah.demo.exercise;
 
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+@Repository
 @Qualifier("mysql")
 public class MySqlDataService implements DataService {
     @Override
